@@ -1,0 +1,28 @@
+{
+  "name": "fcc-microservice-final-project",
+  "version": "0.1.0",
+  "description": "webapp with timestamp API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ruffy314/fcc-microservice-final-project.git"
+  },
+  "keywords": [
+    "freecodecamp",
+    "microservice",
+    "api"
+  ],
+  "author": "Ruffy314",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/Ruffy314/fcc-microservice-final-project/issues"
+  },
+  "homepage": "https://github.com/Ruffy314/fcc-microservice-final-project#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
